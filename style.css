@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Patrick+Hand&display=swap');
+body {
+    text-align: center;
+    background: rgb(247,194,215);
+background: linear-gradient(90deg, rgba(247,194,215,1) 27%, rgba(213,186,253,1) 61%);
+}
+
+canvas {
+    background-color: white;
+    border: black;
+}
+
+canvas {
+    border: 1px solid black;
+}
